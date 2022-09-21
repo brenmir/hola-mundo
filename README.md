@@ -1,5 +1,5 @@
-# hola-mundo
-repositorio de prueba
+# Hola Mundo
+Mi primer repositorio 
 
 Autor: Brenda Miranda
 Fecha: 20/09/22
